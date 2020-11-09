@@ -1,1 +1,3 @@
-# NSE-Data-and-Amazon-Reviews-Correlation-Deplyment
+# NSE-Data-and-Amazon-Reviews-Correlation-Deployment
+
+https://whirlpoolwashingmachine.herokuapp.com/
